@@ -1,4 +1,4 @@
-check react and node versions
+Tutorial from ZTM  
 
 npm install
 npm start
